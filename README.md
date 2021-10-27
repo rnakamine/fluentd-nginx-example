@@ -1,0 +1,1 @@
+# fluentd-nginx-example
